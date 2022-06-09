@@ -19,20 +19,27 @@ const Subunav = ({setFilter, filterProduct, data}) => {
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
               <div class="navbar-nav">
-                <a class="nav-link px-5" href="#">
+                {/* <a class="nav-link px-5" href="#">
                   Home
-                </a>
+                </a> */}
                 <a class="nav-link px-5" href="#" onClick={() => setFilter(data)}>
                   All
                 </a>
-                <a class="nav-link px-5" href="#" onClick={() => filterProduct("men's clothing")}>
+
+                <a class="nav-link px-5" href="#" onClick={() => filterProduct("kid's")}>
+                  Kids
+                </a>
+
+                <a class="nav-link px-5" href="#" onClick={() => filterProduct("men's")}>
                   Men
                 </a>
-                <a class="nav-link px-5" href="#" onClick={() => filterProduct("women's clothing")}>
+                
+                <a class="nav-link px-5" href="#" onClick={() => filterProduct("women's")}>
                   Women
                 </a>
-                <a class="nav-link px-5" href="#" onClick={() => filterProduct("jewelery")}>
-                  Kids
+                
+                <a class="nav-link px-5" href="#" onClick={() => filterProduct("footwares")}>
+                  Footwares
                 </a>
               </div>
             </div>

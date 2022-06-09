@@ -1,5 +1,8 @@
 import React, { useState, useEffect } from "react";
 import Subunav from "../Subnav/Subunav";
+import Colors from "../colors";
+
+
 
 const Products = () => {
   const [data, setData] = useState([]);
@@ -10,7 +13,7 @@ const Products = () => {
   useEffect(() => {
     const getProducts = async () => {
       setLoading(true);
-      const response = await fetch("https://fakestoreapi.com/products");
+      const response = await fetch("http://localhost:3000/Product");
       if (componentMounted) {
         setData(await response.clone().json());
         setFilter(await response.json());
@@ -40,7 +43,7 @@ const Products = () => {
         
         <Subunav setFilter={setFilter} filterProduct={filterProduct} data={data} />
 
-        {filter.map((product) => {
+        {filter.map((product,colors) => {
           return (
             <>
               <div className="col-md-3 mb-4">
@@ -52,6 +55,7 @@ const Products = () => {
                     height="250px"
                   />
                   <div className="card-body">
+                  {/* <Colors /> */}
                     <h5 className="card-title">
                       {product.title.substring(0, 12)}...
                     </h5>
