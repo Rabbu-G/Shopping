@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Subunav from "../Subnav/Subunav";
 import Colors from "../colors";
+import Pop from '../Home/pop'
 
 
 
@@ -56,9 +57,11 @@ const Products = () => {
                   />
                   <div className="card-body">
                   {/* <Colors /> */}
+                  {/* <Pop /> */}
                     <h5 className="card-title">
-                      {product.title.substring(0, 12)}...
+                      {product.title.substring(0, 18)}...
                     </h5>
+                    <p className="card-desc">{product.description}</p>
                     <p className="card-text lead fw-bold">₹{product.price}</p>
                     <a
                       href={`/products/${product.id}`}

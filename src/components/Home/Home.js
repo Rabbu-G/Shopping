@@ -1,5 +1,6 @@
 import React from "react";
 import Product from "../Products/Products";
+import '../../App'
 
 const Home = () => {
   return (

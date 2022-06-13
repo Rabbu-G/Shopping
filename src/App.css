@@ -1,0 +1,12 @@
+.card-title{
+    font-size: 1rem;
+}
+
+.card-desc{
+    font-size: 0.7rem;
+}
+
+.card-body {
+    text-align: left;
+    padding-top: 1rem;
+}

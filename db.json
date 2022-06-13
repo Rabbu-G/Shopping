@@ -3,45 +3,41 @@
     {
       "id": 1,
       "colors":["red","black","blue"],
-      "title": "COLUMBIA MEN'S WATERTIGHT II JACKET",
+      "title": "WATERTIGHT II JACKET",
       "price": 5499,
       "description": "This waterproof-breathable, fully seam-sealed jacket will keep you nice and dry, even in the heaviest of rains.",
       "category": "men's",
-      "image": [
-        "https://slimages.macysassets.com/is/image/MCY/products/1/optimized/20211281_fpx.tif?$browse$&wid=319&fmt=webp",
-      "https://slimages.macysassets.com/is/image/MCY/products/0/optimized/9899590_fpx.tif?$browse$&wid=319&fmt=webp",
-      "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/20914636_fpx.tif?$browse$&wid=319&fmt=webp"
-      ]
+      "image": "https://slimages.macysassets.com/is/image/MCY/products/1/optimized/20211281_fpx.tif?$browse$&wid=319&fmt=webp"
     },
     {
       "id": 2,
-      "title": "COLUMBIA MEN'S EVAPOURATION JACKET",
+      "title": "EVAPOURATION JACKET",
       "price": 7999,
-      "description": "Waterproof & breathable jacket that suffices all your everyday adventures with its advanced moisture management technique and easy to store ability.",
+      "description": "Waterproof & breathable jacket that suffices all your everyday adventures with its advanced moisture management.",
       "category": "men's",
       "image": "https://slimages.macysassets.com/is/image/MCY/products/0/optimized/9899590_fpx.tif?$browse$&wid=319&fmt=webp"
     },
     {
       "id": 3,
-      "title": "COLUMBIA MEN'S COLUMBIA TREK JOGGER",
+      "title": "TREK JOGGER",
       "price": 4499,
-      "description": "Joggers with a drawcord-adjustable elastic waist that allows for free movement and the right fit.",
+      "description": "Joggers with a drawcord-adjustable elastic waist that allows for free movement and the right fit management.",
       "category": "men's",
       "image": "https://slimages.macysassets.com/is/image/MCY/products/1/optimized/20849411_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1&fmt=webp"
     },
     {
       "id": 4,
-      "title": "COLUMBIA MEN'S SILVER RIDGE CONVERTIBLE PANT",
+      "title": "SILVER RIDGE CONVERTIBLE PANT",
       "price": 4999,
-      "description": "These durable, quick-wicking pants feature built-in sun protection and plentiful storage making them the perfect choice for active days in warm weather.",
+      "description": "These durable, quick-wicking pants feature built-in sun protection and plentiful storage making them the perfect choice.",
       "category": "men's",
       "image": "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/18519365_fpx.tif?$browse$&wid=319&fmt=webp"
     },
     {
       "id": 5,
-      "title": "COLUMBIA UNISEX SCHOONER BANK CACHALOT III",
+      "title": "UNISEX SCHOONER BANK CACHALOT III",
       "price": 1499,
-      "description": "Adventures are way better with this well fitting, easy to wear cap that is crafted with sweat wicking and sun protecting fabric. The package includes a drawcord and toggle at the back!",
+      "description": "Adventures are way better with this well fitting, easy to wear cap that is crafted with sweat wicking and sun.",
       "category": "men's",
       "image": "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/21649775_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1&fmt=webp"
     },
@@ -49,7 +45,7 @@
       "id": 6,
       "title": "EcoNour Circle Printed Windshield Sun Shade | Large",
       "price": 9877,
-      "description": "Windshield sunshade for car with flag design",
+      "description": "This waterproof-breathable, fully seam-sealed jacket will keep you nice and dry, even in the heaviest of rains.",
       "category": "kid's",
       "image": "https://m.media-amazon.com/images/I/81r8W6bx8rL._SY450_.jpg"
     },
@@ -57,69 +53,69 @@
       "id": 7,
       "title": "Calvin Klein Minna 3",
       "price": 7539,
-      "description": "Classic fashion Shoes",
+      "description": "Classic fashion Shoes This waterproof-breathable, fully seam-sealed jacket will keep you nice and dry, even in the heaviest of rains.",
       "category": "kid's",
       "image": "https://m.media-amazon.com/images/I/61lhILOUgBL._UX625_.jpg"
     },
     {
       "id": 8,
-      "title": "Bitiya By Bhama Girl's Cotton Blend Kurta & Palazzo",
+      "title": "Cotton Blend Kurta & Palazzo",
       "price": 899,
-      "description": "Rose colour cotton palazzo",
+      "description": "Rose colour cotton palazzo This waterproof-breathable, fully seam-sealed jacket will keep you nice and dry, even in the heaviest of rains.",
       "category": "kid's",
       "image": "https://m.media-amazon.com/images/I/81OzyvUMExL._UY741_.jpg"
     },
     {
       "id": 9,
-      "title": "Bitiya By Bhama Girl's Cotton Blend Kurta & Palazzo",
+      "title": "Kurta & Palazzo",
       "price": 649,
-      "description": "Rose colour cotton palazzo",
+      "description": "Rose colour cotton palazzo This waterproof-breathable, fully seam-sealed jacket will keep you nice and dry, even in the heaviest of rains.",
       "category": "kid's",
       "image": "https://m.media-amazon.com/images/I/71jUlg85kkL._UX679_.jpg"
     },
     {
       "id": 10,
-      "title": "The Boo Boo Club Cotton Kids Half Sleeves T-Shirt with Cool Prints",
+      "title": "Cotton Kids Half Sleeves T-Shirt with Cool Prints",
       "price": 999,
-      "description": "",
+      "description": "This waterproof-breathable, fully seam-sealed jacket will keep you nice and dry, even in the heaviest of rains.",
       "category": "kid's",
       "image": "https://m.media-amazon.com/images/I/81ErYzVqy+L._UX522_.jpg"
     },
     {
       "id": 11,
-      "title": "COLUMBIA WOMEN'S SILVER RIDGE LITE LONG SLEEVE SHIRT",
+      "title": "SILVER RIDGE LITE LONG SLEEVE SHIRT",
       "price": 3499,
-      "description": "Keep your style on point with this classic long sleeve shirt that has hidden back vents for a better airflow, UPF 40 sun protection and a antimicrobial, sweat-wicking performance, to let you adapt to conditions.",
+      "description": "Keep your style on point with this classic long sleeve shirt that has hidden back vents for a better airflow, UPF.",
       "category": "women's",
       "image": "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/21698425_fpx.tif?$browse$&wid=319&fmt=webp"
     },
     {
       "id": 12,
-      "title": "COLUMBIA WOMEN'S HIKEBOUND JACKET",
+      "title": "HIKEBOUND JACKET",
       "price": 7499,
-      "description": "This jacket is waterproof-breathable and fully seam-sealed for all conditions.",
+      "description": "This jacket is waterproof-breathable and fully seam-sealed for all conditions seam-sealed for all seam.",
       "category": "women's",
       "image": "https://slimages.macysassets.com/is/image/MCY/products/8/optimized/21229878_fpx.tif?$browse$&wid=319&fmt=webp"
     },
     {
       "id": 13,
-      "title": "COLUMBIA WOMEN'S SUN TREK SS TEE",
+      "title": "SUN TREK SS TEE",
       "price": 2499,
-      "description": "The soft cotton blend fabric features moisture-wicking properties to keep you dry. Healthy mix of cotton, polyster & elasthane make this tee ideal for hikes & casual use.",
+      "description": "The soft cotton blend fabric features moisture-wicking properties to keep you dry. Healthy mix of cotton.",
       "category": "women's",
       "image": "https://slimages.macysassets.com/is/image/MCY/products/7/optimized/18928797_fpx.tif?$browse$&wid=319&fmt=webp"
     },
     {
       "id": 14,
-      "title": "COLUMBIA WOMEN'S WINDGATES II LEGGING",
+      "title": "WINDGATES II LEGGING",
       "price": 999,
-      "description": "A double knit stetch for a silhoutte snug fit. Keeps the sun and moisture out.",
+      "description": "A double knit stetch for a silhoutte snug fit,Keeps the sun and moisture outa silhoutte snug snug fit keep the sun.",
       "category": "women's",
       "image": "https://slimages.macysassets.com/is/image/MCY/products/3/optimized/20382673_fpx.tif?$browse$&wid=319&fmt=webp"
     },
     {
       "id": 15,
-      "title": "COLUMBIA MEN'S MONTRAIL TRINITY AG",
+      "title": "TRINITY AG",
       "price": 12999,
       "description": "Break records, set new goals—there's nothing holding you back in this lightweight performance trail running shoe.",
       "category": "footwares",
@@ -127,15 +123,15 @@
     },
     {
       "id": 16,
-      "title": "COLUMBIA WOMEN'S TRAILSTORM MID WATERPROOF",
+      "title": "TRAILSTORM MID WATERPROOF",
       "price": 9999,
-      "description": "A multi-faceted shoe, whose usage extends from the wilderness to the streets of town. Its cushioning & traction combined with a sublime breathable construction make it shine outright.",
+      "description": "A multi-faceted shoe, whose usage extends from the wilderness to the streets of town. Its cushioning & traction.",
       "category": "footwares",
       "image": "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/20914636_fpx.tif?$browse$&wid=319&fmt=webp"
     },
     {
       "id": 17,
-      "title": "COLUMBIA WOMEN'S PEAKFREAK X2 MID OUTDRY",
+      "title": "PEAKFREAK X2 MID OUTDRY",
       "price": 10499,
       "description": "Breathable enough yet water proof with a punch of supreme grip and heavenly comfort to your foot.",
       "category": "footwares",
@@ -143,25 +139,25 @@
     },
     {
       "id": 18,
-      "title": "COLUMBIA WOMEN'S MINX III MID ANKLE SNOW BOOTS ",
+      "title": "MINX III MID ANKLE SNOW BOOTS ",
       "price": 8500,
-      "description": "A multi-faceted shoe, whose usage extends from the wilderness to the streets of town. Its cushioning & traction combined with a sublime breathable construction make it shine outright.",
+      "description": "A multi-faceted shoe, whose usage extends from the wilderness to the streets of town.",
       "category": "footwares",
       "image": "https://slimages.macysassets.com/is/image/MCY/products/4/optimized/19905844_fpx.tif?$browse$&wid=319&fmt=webp"
     },
     {
       "id": 19,
-      "title": "COLUMBIA WOMEN'S REDMOND V2 WATERPROOF SHOES",
+      "title": "REDMOND V2 SHOES",
       "price": 7999,
-      "description": "",
+      "description": "Breathable enough yet water proof with a punch of supreme grip and heavenly comfort to your foot.",
       "category": "footwares",
       "image": "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/11667599_fpx.tif?$browse$&wid=319&fmt=webp"
     },
     {
       "id": 20,
-      "title": "COLUMBIA WOMEN'S MOJAVE II TRAIL RUNNING SHOES",
+      "title": "MOJAVE II TRAIL RUNNING SHOES",
       "price": 6999,
-      "description": "A top of the line waterproof trail running shoe that provides comfort, stability and advanced traction; all combined in a comfortable and secured fit",
+      "description": "A top of the line waterproof trail running shoe that provides comfort, stability and advanced traction all.",
       "category": "footwares",
       "image": "https://slimages.macysassets.com/is/image/MCY/products/0/optimized/20722660_fpx.tif?$browse$&wid=319&fmt=webp"
     }
