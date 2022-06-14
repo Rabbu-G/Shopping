@@ -7,7 +7,6 @@ const Products = () => {
   const [data, setData] = useState([]);
   const [filter, setFilter] = useState(data);
   const [loading, setLoading] = useState(false);
-  const [modal, setModal] = useState({ show: false, data: null });
   let componentMounted = true;
 
   useEffect(() => {
