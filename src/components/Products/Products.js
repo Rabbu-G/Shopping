@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from "react";
 import Subunav from "../Subnav/Subunav";
-import Colors from "../colors";
-import Pop from '../Home/pop'
 
 
 
@@ -9,12 +7,13 @@ const Products = () => {
   const [data, setData] = useState([]);
   const [filter, setFilter] = useState(data);
   const [loading, setLoading] = useState(false);
+  const [modal, setModal] = useState({ show: false, data: null });
   let componentMounted = true;
 
   useEffect(() => {
     const getProducts = async () => {
       setLoading(true);
-      const response = await fetch("http://localhost:3000/Product");
+      const response = await fetch("http://localhost:3000/product");
       if (componentMounted) {
         setData(await response.clone().json());
         setFilter(await response.json());
@@ -30,7 +29,9 @@ const Products = () => {
   }, []);
 
   const Loading = () => {
-    return <>Loading....</>;
+    return (
+    <>Loading....</>
+    );
   };
 
   const filterProduct = (cat) => {
@@ -38,13 +39,14 @@ const Products = () => {
     setFilter(updatedList);
   };
 
+
   const ShowProducts = () => {
     return (
       <>
         
         <Subunav setFilter={setFilter} filterProduct={filterProduct} data={data} />
 
-        {filter.map((product,colors) => {
+        {filter.map((product) => {
           return (
             <>
               <div className="col-md-3 mb-4">
@@ -73,7 +75,7 @@ const Products = () => {
                 </div>
               </div>
             </>
-          );
+          )
         })}
       </>
     );
